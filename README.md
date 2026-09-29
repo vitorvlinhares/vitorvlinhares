@@ -1,4 +1,4 @@
-# Hi, I'm Vitor 👋
+# Hi, I'm Vitor Linhares
 
 Tech Lead & Technical Product Manager based in São Paulo, Brazil.
 I build SaaS products from concept to production: architecture, data modeling,
